@@ -1,2 +1,2 @@
 # LDC_COR
-Source code and data
+Source code, data and figures code
